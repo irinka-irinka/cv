@@ -58,9 +58,9 @@ FreeCodeCamp
 HTML Academy  
 
    **Course on Udemy:** 
-   *  [https://www.udemy.com/share/101zJI3@8z_6B1KePxh8rUxsr2JXy6cscMNjhvy3gjiVz3ju2ShhGug47e_006sraVeAE0GwkQ==/](https://www.udemy.com/share/101zJI3@8z_6B1KePxh8rUxsr2JXy6cscMNjhvy3gjiVz3ju2ShhGug47e_006sraVeAE0GwkQ==/)
+   * [https://www.udemy.com/share/101zJI3@8z_6B1KePxh8rUxsr2JXy6cscMNjhvy3gjiVz3ju2ShhGug47e_006sraVeAE0GwkQ/](https://www.udemy.com/share/101zJI3@8z_6B1KePxh8rUxsr2JXy6cscMNjhvy3gjiVz3ju2ShhGug47e_006sraVeAE0GwkQ==/)
     * [https://www.udemy.com/course/web_developer/](https://www.udemy.com/course/web_developer/)(in progress)  
-    * [https://www.udemy.com/course/javascript_full](https://www.udemy.com/course/javascript_full/)(in progress)
+    * [https://www.udemy.com/course/javascript_full/](https://www.udemy.com/course/javascript_full/)(in progress)
      
 
 ***
